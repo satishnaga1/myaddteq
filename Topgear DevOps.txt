@@ -1,0 +1,4 @@
+30109452 - Ansible Tower - Task 1 Create inventory on the runtime as per the user input ( First 1-6 services )- Ansible-Task1
+30109449-Testing - Task 1 Integrating Selenium test automation in CI ( First 1-6 services )
+30109447-Jenkins - Task 1 Integration with Ansible tower ( for first 6 services )-Integrate Jenkins with Ansible
+30109446-Jenkins - Task1 Fetch Ansible logs and show on Jenkins console output ( for first 1-6 services- Parse Ansible logs in jenkins
